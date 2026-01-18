@@ -38,6 +38,7 @@ body::before {
     max-width: 1000px;
     margin: 0 auto;
     padding: 60px 40px;
+    text-align: center;
 }
 
 h1 {
@@ -46,7 +47,8 @@ h1 {
 }
 
 p {
-    max-width: 600px;
+    max-width: 500px;
+    margin: 0 auto;
     line-height: 1.6;
     color: #d0d0d0;
 }
@@ -57,7 +59,7 @@ p {
     justify-content: center;
     align-items: center;
     gap: 120px;
-
+    transform: translate(-40px);
 }
 
 .planet {
