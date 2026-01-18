@@ -2,3 +2,25 @@
 a.active {
     font-weight: bold;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100hv;
+    padding: 0 20px;
+}
+
+.Earth {
+    height: 100px;
+    width: 100px;
+    color: blue;
+    border-radius: 50%;
+}
+
+.Moon {
+    height: 20px;
+    width: 20px;
+    color: red;
+    border-radius: 50%;
+}
