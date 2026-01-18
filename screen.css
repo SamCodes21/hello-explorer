@@ -1,6 +1,7 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+a {
+    text-decoration: none;
+    display: inline-block;
 }
 
 * {
