@@ -82,13 +82,13 @@ p {
 .planet.earth {
     height: 260px;
     width: 260px;
-    background-image: url("earth.jpg");
+    background-image: url("images/earth.jpg");
 }
 
 .planet.moon {
     height: 80px;
     width: 80px;
-    background-image: url("moon.jpg");
+    background-image: url("images/moon.jpg");
 }
 
 .planet.active {
